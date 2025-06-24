@@ -1,0 +1,53 @@
+Hotel
+Numero Reserva
+Posición
+Identificador de concepto
+Cantidad
+Importe
+Moneda
+Estado de la reserva
+Indicador impuestos
+Precio transaccion
+Precio transacción sin impuestos
+Moneda de la transaccion
+Fecha para determinacion del cambio
+Cambio para la determinación de precios
+Tipo cargo
+Producido
+Número de Documento Comercial
+Reserva origen del cargo
+Estado cargo
+Anulado por
+Número del cargo
+Motivo anulación
+Habitación
+Nombre del huésped
+Tipo de persona que lo ocupa.
+Fecha cargo
+Hora del cargo
+Usuarios
+Impuestos incluidos
+Descuento %
+Porcentaje cliente comercial
+Traspasado a FI
+Forma de pago
+Base Comisión
+Importe Comisión
+Numero Reserva Tiempo Libre
+ID. Dispositivo
+Numero de ticket del TPV
+Marca de descuento
+Opción de estancia
+Cargo proviene de separar otros
+Marca anticipos contab. desde FI
+Nº documento
+Ejercicio
+Número de Documento Comercial_1
+No recalcular
+Movido automáticamente
+Movido manualmente
+Nº de cargo origen en linfol
+Sección
+Identificador de elemento en una sala
+Porcentaje para el CRS
+Histórico de reservas del cargo
